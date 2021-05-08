@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TODO_12_II</string>
+    <string name="mssg">Tap to start the alert</string>
+    <string name="alert">Alert</string>
+</resources>
